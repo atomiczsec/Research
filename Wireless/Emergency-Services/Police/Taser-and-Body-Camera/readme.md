@@ -20,6 +20,7 @@ The research involves using a Censys dork to enumerate devices that may be relat
 The following are some initial findings from the research:
 - Enumeration of devices associated with Tasers, battery chargers, and body cameras used in law enforcement.
     - Censys Dork to find Axon Charging Docks: "Axon Dock"
+    - Censys Dork to find Wrape Infra? :"Wrap Technologies"
 - Identification of open ports and potential vulnerabilities.
 - Mapping of network infrastructure related to these devices.
 
