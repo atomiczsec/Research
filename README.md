@@ -1,6 +1,5 @@
-# Cybersecurity Research Reports
+# Cybersecurity Research and Methodologies I come across and build out
 
-This repository contains a series of research reports on various topics in the cybersecurity space. Each report delves into specific cybersecurity threats and operations, providing detailed analysis and findings.
 
 ## Table of Contents
 - [Report 1 - Discord Cheat Malware]([#report-1---discord-cheat-malware](https://github.com/atomiczsec/Research/tree/main/Report%201%20-%20Discord%20Cheat%20Malware))
@@ -15,5 +14,6 @@ I welcome contributions from the cybersecurity community. If you have suggestion
 
 ### Via Messaging
 If you prefer to share your contributions or feedback privately, please feel free to message me directly. 
+
 ### Via Pull Request
 For those who would like to contribute more directly, you can do so by making a Pull Request (PR) to this repository.
